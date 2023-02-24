@@ -1,4 +1,4 @@
-What is Linux?
+**What is Linux?**
 
 . Linux is a free and open-source operating system that is widely used in the world of computing.
 
@@ -6,7 +6,7 @@ What is Linux?
 
 . An Operating system, or OS is software that communicate with the hardware and allows other programs to run.
 
-Why Linux?
+**Why Linux?**
 
 . It's free: Linux is free and open-source software, which means that anyone can download, use, and modify it without paying any licensing fees.
 
