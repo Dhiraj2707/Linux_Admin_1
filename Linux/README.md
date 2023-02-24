@@ -8,6 +8,7 @@
 
 
 
+
 **Why Linux?**
 
 . It's free: Linux is free and open-source software, which means that anyone can download, use, and modify it without paying any licensing fees.
